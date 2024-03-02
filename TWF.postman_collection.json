@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "b04ba1f5-0a6b-4733-8597-1e8e7eb335e5",
+		"name": "TWF",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14545708"
+	},
+	"item": [
+		{
+			"name": "translate to french",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "server health",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
